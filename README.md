@@ -29,3 +29,7 @@ tice. In AAAI Conf. on Artiﬁcial Intelligence.
 - src/beacons_test.py - Used to test only the environment.
 - src/mes_simp_test.py - Used to test the measurement simplification, calculation of Delta_Z and m_i.
 - src/bounds_analyzer.py - Used to generate figures in paper.
+
+# Environment Demonstration #
+
+![til](./src/gifs/beacons_3.gif)
