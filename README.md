@@ -8,8 +8,8 @@ We kindly ask to cite our paper if you find this code useful.
 
 - Lev-Yehudi, I.; Barenboim, M.; and Indelman, V. 2024.
 Simplifying Complex Observation Models in Continuous
-POMDP Planning with Probabilistic Guarantees and Prac-
-tice. In AAAI Conf. on Artiﬁcial Intelligence.
+POMDP Planning with Probabilistic Guarantees and Practice.
+In AAAI Conf. on Artiﬁcial Intelligence.
 
 ```
 @inproceedings{LevYehudi24aaai,
